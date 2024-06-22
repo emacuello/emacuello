@@ -67,6 +67,9 @@
 
 
 ## Connect with me  
+
+# Si buscas a alguien con habilidades técnicas robustas, pasión por la tecnología y un fuerte deseo de aprender y crecer, entonces no dudes en contactarme!.
+<br/>
 <div align="center">
 <a href="https://github.com/emacuello" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
