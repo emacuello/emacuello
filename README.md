@@ -68,7 +68,7 @@
 
 ## Connect with me  
 
-# Si buscas a alguien con habilidades técnicas robustas, pasión por la tecnología y un fuerte deseo de aprender y crecer, entonces no dudes en contactarme!.
+# Si buscas a alguien con habilidades técnicas robustas, pasión por la tecnología y un fuerte deseo de aprender y crecer, entonces, no dudes en contactarme!.
 <br/>
 <div align="center">
 <a href="https://github.com/emacuello" target="_blank">
