@@ -65,6 +65,17 @@
 
 <br/>  
 
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=emacuello&count_private=true&show_icons=true&count_private=true&theme=aura" align="center" />
+</div>  
+<br/>  
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emacuello&layout=compact&theme=aura&hide=html,css" align="center"/>
+</div>  
+
+<br/>  
+
 
 ## Connect with me  
 
