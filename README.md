@@ -6,10 +6,10 @@
 ### <div align="center">Sobre mí:</div>  
   
 
-- 🧑‍💻 Soy Victor Emanuel Elias Cuello, un apasionado Full Stack Developer especializado en Back-End, con una sólida formación en el desarrollo de aplicaciones API REST y aplicaciones reactivas. He adquirido mi experiencia y habilidades a través del bootcamp de Henry y otros programas de formación, donde he trabajado con tecnologías como Node.js, JavaScript, NestJS, Express, Docker, AWS EC2, Socket, y React/Vite.  
+- 🧑‍💻 Soy Victor Emanuel Elias Cuello, un apasionado Full Stack Developer especializado en Back-End y DevOps, en la parte cliente manejo herramientas y frameworks como React, Nextjs, Astro, Markdown, Redux, Tailwind CSS, Bootstrap, por el lado Backend tengo manejo avanzado en Nodejs con los frameworks de Express y Nestjs, he construido aplicaciones monolíticas y de Microservicios, con patrones de diseños MVC y arquitectura Hexagonal, tengo conocimientos en diferentes bases de datos relaciones y no relacionales, también trabajé con diferentes colas de mensajería como Kafka, RMQ, MQTT, entre otras. Además tengo fuerte orientación a DevOps en donde he trabajado con AWS, Linux, Terraform, Kubernetes, CI/CD, Bash, Github Actions, Grafana, Loki, Prometheus.  
   
 
-- 🌱 Actualmente, estoy ampliando mis conocimientos en Java/Spring.  
+- 🌱 Actualmente, estoy ampliando mis conocimientos en DevOps y Go.  
   
 
 <br/>  
